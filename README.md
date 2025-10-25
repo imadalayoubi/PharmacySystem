@@ -2125,4 +2125,4 @@ namespace PharmacySystem
         // دالة لعرض المعلومات، يجب تنفيذها في الأصناف المشتقة
         public abstract void ShowInfo();
     }
-    
+}
